@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Setup.qml</file>
+        <file>Monitoring.qml</file>
+        <file>Reports.qml</file>
+        <file>image/monitoring.png</file>
+        <file>image/report.png</file>
+        <file>image/statusbar.png</file>
+        <file>image/titlebar.png</file>
+        <file>image/setup_body.png</file>
+        <file>image/monitoring_btn.png</file>
+        <file>image/setup_btn.png</file>
+        <file>image/monitoring_leftbar.png</file>
+        <file>Stimulation.qml</file>
+        <file>image/stimulation.png</file>
+        <file>image/monitoring_rightbar.png</file>
+        <file>image/ok_btn.png</file>
+    </qresource>
+</RCC>
